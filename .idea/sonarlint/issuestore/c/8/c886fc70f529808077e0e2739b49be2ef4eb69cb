@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8ŠÃ±–Ï1
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î8›Ã±–Ï1
+m
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Şó°8›Ã±–Ï1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(£ÄƒŒ8£Ã±–Ï1
+L	java:S106
+"+Replace this use of System.out by a logger.(”«˜½ûÿÿÿÿ8¤Ã±–Ï1
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8¤Ã±–Ï1
+G	java:S106"+Replace this use of System.out by a logger.(æ½ï8¤Ã±–Ï1
+L	java:S106"+Replace this use of System.out by a logger.(‘¬–ºøÿÿÿÿ8§Ã±–Ï1

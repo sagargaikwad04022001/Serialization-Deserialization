@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8¿Ã§–Ï1
+l
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(´¢ß8È¶–Ï1
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†š­î8Ç¶–Ï1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(£ÄƒŒ8áÃ§–Ï1
+G	java:S106	"+Replace this use of System.out by a logger.(„íí8¤ı´–Ï1

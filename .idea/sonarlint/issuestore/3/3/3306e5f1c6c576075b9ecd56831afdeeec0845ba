@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8¡ùÙ—Ï1
+`
+java:S1854">Remove this useless assignment to local variable "jsonString".(›óÊæøÿÿÿÿ8©ùÙ—Ï1
+Q
+java:S1481"/Remove this unused "jsonString" local variable.(›óÊæøÿÿÿÿ8¹ùÙ—Ï1
+G	java:S106	"+Replace this use of System.out by a logger.(‹éâ›8¹ùÙ—Ï1
